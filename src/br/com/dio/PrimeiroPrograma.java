@@ -10,9 +10,6 @@ public class PrimeiroPrograma {
         System.out.println(gato);
 
 
-        /*int a = 3;
-        int b = 5;
 
-        System.out.println("Helo word! " + (a+b));*/
     }
 }
