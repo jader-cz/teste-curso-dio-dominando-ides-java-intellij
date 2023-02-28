@@ -9,7 +9,12 @@ public class PrimeiroPrograma {
 
         System.out.println(gato);
 
+        Livro livro1 = new Livro("O problema dos 3 corpos", 300);
+        System.out.println(livro1);
+
 
 
     }
 }
+
+
